@@ -1,0 +1,26 @@
+{
+  "name": "@fp/react-hooks",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PassionPI/fp-react-hooks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PassionPI/fp-react-hooks/issues"
+  },
+  "homepage": "https://github.com/PassionPI/fp-react-hooks#readme",
+  "devDependencies": {
+    "@types/react": "^18.0.5",
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "react": "^18.0.0"
+  }
+}
